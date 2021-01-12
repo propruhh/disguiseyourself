@@ -1,0 +1,9 @@
+Package: com.propr.disguiseyourself
+Name: DisguiseYourself
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Change your name!
+Maintainer: Christian Janev
+Author: Christian Janev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
